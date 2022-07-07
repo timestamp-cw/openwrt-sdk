@@ -1,0 +1,1 @@
+cmd_arch/mips/include/generated/asm/syscall_table_32_o32.h := bash './arch/mips/kernel/syscalls/syscalltbl.sh' 'arch/mips/kernel/syscalls/syscall_o32.tbl' 'arch/mips/include/generated/asm/syscall_table_32_o32.h' '' '32_o32' '4000'

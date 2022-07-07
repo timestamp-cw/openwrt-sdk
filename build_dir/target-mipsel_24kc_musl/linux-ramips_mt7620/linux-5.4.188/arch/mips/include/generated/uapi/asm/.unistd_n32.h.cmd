@@ -1,0 +1,1 @@
+cmd_arch/mips/include/generated/uapi/asm/unistd_n32.h := bash './arch/mips/kernel/syscalls/syscallhdr.sh' 'arch/mips/kernel/syscalls/syscall_n32.tbl' 'arch/mips/include/generated/uapi/asm/unistd_n32.h' '' '' '__NR_Linux'

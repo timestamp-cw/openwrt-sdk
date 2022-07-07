@@ -1,0 +1,1 @@
+cmd_arch/mips/include/generated/asm/syscall_table_64_n64.h := bash './arch/mips/kernel/syscalls/syscalltbl.sh' 'arch/mips/kernel/syscalls/syscall_n64.tbl' 'arch/mips/include/generated/asm/syscall_table_64_n64.h' '' '64_n64' '5000'
